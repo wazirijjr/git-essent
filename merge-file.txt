@@ -1,5 +1,4 @@
 line 1 by github
-line 2 by github
-line threee by github (edited locally 22)
+line three by github (edited locally)
 line 4 by github
 line 5 by github
